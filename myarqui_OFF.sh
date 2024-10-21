@@ -17,6 +17,6 @@ FUNCTION_OFF() {
                 	
         	fi
 
-        	sleep 60
+        	sleep 300
 	done
 }

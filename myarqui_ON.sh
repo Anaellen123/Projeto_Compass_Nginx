@@ -19,7 +19,7 @@ FUNCTION_ON() {
 
 		fi
 		
-		sleep 60
+		sleep 300
 	done
 }
 
