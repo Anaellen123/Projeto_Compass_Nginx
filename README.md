@@ -17,6 +17,9 @@ O Windows Subsystem for Linux (WSL) é uma ferramenta desenvolvida pela Microsof
 - 4 Na aba em qu aparecer terá que aparecer terá uma lista onde contám um arquivo chamado - subsistema do windows para linux -, ativa essa opção e click no OK.
 - 5 Reinicie o computador.
 
+## O que é o Ubuntu?
+Ubuntu é uma popular distribuição do sistema operacional Linux, baseada no Debian, conhecida por sua facilidade de uso e grande comunidade de suporte. É gratuito, de código aberto, e utiliza a interface gráfica GNOME. O Ubuntu oferece versões de suporte de longo prazo (LTS) com atualizações de segurança por 5 anos, além de versões intermediárias com suporte de 9 meses. Ele é amplamente utilizado tanto em desktops quanto em servidores, com destaque para sua segurança e compatibilidade com diversos tipos de hardware. O Ubuntu também é usado em ambientes de nuvem e dispositivos IoT, e conta com uma comunidade ativa global.
+
 ### Instalando o Ubuntu (sistema linux)
 - 1 Vá na loja do computador o Microsoft Store e pesquise por Ubuntu.
 - 2 Procure pela versão atualizada e baixe.
@@ -100,4 +103,18 @@ Após isso, realize novamente o comando ```bash myarqui_nginx.sh``` e  execute o
 
 # Versionamento 
 
-Para versionar utilizamos o Git e o GitHub. Com o Git instalado, crie uma pasta em seu GitHub e puxe a chave ssh dessa pasta, faça um git clone <chave copiada> e cópie os arquivos para o arquivo clone criado em seu diretório e então inicie com git init no diretório do projeto, então digite git add . para adicionar os arquivos do diretório, caso precise digite depois git status para verificar se as respectivas pastas foram adicionadas e então faça um git commit -m "Initial commit" e dps um git push.
+Para versionar utilizamos o  ```Git```  e o  ```GitHub``` . Com o Git instalado. 
+
+Crie uma pasta em seu GitHub e puxe a chave ssh dessa pasta, faça um ```git clone <chave copiada>```.
+
+Cópie os arquivos para o arquivo clone criado em seu diretório e então inicie com ```git init``` no diretório do projeto.
+
+Então digite ```git add .``` para adicionar os arquivos do diretório.
+
+Caso precise digite depois ```git status``` para verificar se as respectivas pastas foram adicionadas. 
+
+E então faça um ```git commit -m "Initial commit"```.  
+
+Depois um ```git push```.
+
+Pronto, agora só atualizar sua página no GitHub que as pastas já estarão anexadas lá.
